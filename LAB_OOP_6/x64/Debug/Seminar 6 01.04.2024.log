@@ -1,0 +1,34 @@
+﻿  BMW.cpp
+C:\Users\Razvan\Documents\Facultate\Anul 1\Sem 2\OOP\Seminar 6 01.04.2024\BMW.cpp(24,24): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Razvan\Documents\Facultate\Anul 1\Sem 2\OOP\Seminar 6 01.04.2024\BMW.cpp(28,24): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Circuit.cpp
+  Fiat.cpp
+C:\Users\Razvan\Documents\Facultate\Anul 1\Sem 2\OOP\Seminar 6 01.04.2024\Fiat.cpp(24,24): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Razvan\Documents\Facultate\Anul 1\Sem 2\OOP\Seminar 6 01.04.2024\Fiat.cpp(28,24): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  RangeRover.cpp
+C:\Users\Razvan\Documents\Facultate\Anul 1\Sem 2\OOP\Seminar 6 01.04.2024\RangeRover.cpp(24,24): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Razvan\Documents\Facultate\Anul 1\Sem 2\OOP\Seminar 6 01.04.2024\RangeRover.cpp(28,24): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Seat.cpp
+C:\Users\Razvan\Documents\Facultate\Anul 1\Sem 2\OOP\Seminar 6 01.04.2024\Seat.cpp(24,24): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Razvan\Documents\Facultate\Anul 1\Sem 2\OOP\Seminar 6 01.04.2024\Seat.cpp(28,24): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Volvo.cpp
+C:\Users\Razvan\Documents\Facultate\Anul 1\Sem 2\OOP\Seminar 6 01.04.2024\Volvo.cpp(24,24): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Razvan\Documents\Facultate\Anul 1\Sem 2\OOP\Seminar 6 01.04.2024\Volvo.cpp(28,24): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+Volvo.obj : error LNK2001: unresolved external symbol "public: virtual int __cdecl Car::GetFuelCapacity(void)" (?GetFuelCapacity@Car@@UEAAHXZ)
+BMW.obj : error LNK2001: unresolved external symbol "public: virtual int __cdecl Car::GetFuelCapacity(void)" (?GetFuelCapacity@Car@@UEAAHXZ)
+Fiat.obj : error LNK2001: unresolved external symbol "public: virtual int __cdecl Car::GetFuelCapacity(void)" (?GetFuelCapacity@Car@@UEAAHXZ)
+RangeRover.obj : error LNK2001: unresolved external symbol "public: virtual int __cdecl Car::GetFuelCapacity(void)" (?GetFuelCapacity@Car@@UEAAHXZ)
+Seat.obj : error LNK2001: unresolved external symbol "public: virtual int __cdecl Car::GetFuelCapacity(void)" (?GetFuelCapacity@Car@@UEAAHXZ)
+Volvo.obj : error LNK2001: unresolved external symbol "public: virtual int __cdecl Car::GetFuelConsumption(void)" (?GetFuelConsumption@Car@@UEAAHXZ)
+BMW.obj : error LNK2001: unresolved external symbol "public: virtual int __cdecl Car::GetFuelConsumption(void)" (?GetFuelConsumption@Car@@UEAAHXZ)
+Fiat.obj : error LNK2001: unresolved external symbol "public: virtual int __cdecl Car::GetFuelConsumption(void)" (?GetFuelConsumption@Car@@UEAAHXZ)
+RangeRover.obj : error LNK2001: unresolved external symbol "public: virtual int __cdecl Car::GetFuelConsumption(void)" (?GetFuelConsumption@Car@@UEAAHXZ)
+Seat.obj : error LNK2001: unresolved external symbol "public: virtual int __cdecl Car::GetFuelConsumption(void)" (?GetFuelConsumption@Car@@UEAAHXZ)
+Volvo.obj : error LNK2001: unresolved external symbol "public: virtual int __cdecl Car::GetAverageSpeed(void)" (?GetAverageSpeed@Car@@UEAAHXZ)
+BMW.obj : error LNK2001: unresolved external symbol "public: virtual int __cdecl Car::GetAverageSpeed(void)" (?GetAverageSpeed@Car@@UEAAHXZ)
+Fiat.obj : error LNK2001: unresolved external symbol "public: virtual int __cdecl Car::GetAverageSpeed(void)" (?GetAverageSpeed@Car@@UEAAHXZ)
+RangeRover.obj : error LNK2001: unresolved external symbol "public: virtual int __cdecl Car::GetAverageSpeed(void)" (?GetAverageSpeed@Car@@UEAAHXZ)
+Seat.obj : error LNK2001: unresolved external symbol "public: virtual int __cdecl Car::GetAverageSpeed(void)" (?GetAverageSpeed@Car@@UEAAHXZ)
+C:\Users\Razvan\Documents\Facultate\Anul 1\Sem 2\OOP\Seminar 6 01.04.2024\x64\Debug\Seminar 6 01.04.2024.exe : fatal error LNK1120: 3 unresolved externals
